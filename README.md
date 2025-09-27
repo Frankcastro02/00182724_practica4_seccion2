@@ -1,5 +1,5 @@
  ¿Qué ocurre en cada caso presentado anteriormente con los operadores y porqué JS me permite esto?
- R//
+ R//En JavaScript, los operadores no solo realizan cálculos matemáticos, sino que también aplican reglas de conversión automática de tipos. Esto significa que el mismo operador puede comportarse de forma distinta dependiendo del tipo de datos con el que interactúa.
  
  ¿El comportamiento de los flujos de control es similar a otros lenguajes y ambientes de desarrollo?
- R//
+ R//Los flujos de control en JavaScript mantienen una estructura muy similar a la de otros lenguajes de programación, lo que facilita el aprendizaje y la comprensión de sentencias como if, else, switch, for o while. Sin embargo, su comportamiento presenta particularidades que lo diferencian: el tipado dinámico permite que cualquier valor pueda evaluarse como verdadero o falso según las reglas de truthy y falsy, el hoisting afecta la forma en que se interpretan variables y funciones, y el modelo asincrónico basado en el event loop introduce un control de flujo no estrictamente secuencial.
